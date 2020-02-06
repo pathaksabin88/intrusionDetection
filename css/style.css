@@ -1379,32 +1379,32 @@ body{
 /* Bottom left text */
 .bottom-left {
 	position: absolute;
-	bottom: 300px;
-	left: 250px;
+	bottom: 35%;
+	left: 22%;
 	color: black;
 }
 
 /* Top left text */
 .top-left {
 	position: absolute;
-	top: 90px;
-	left:250px;
+	top: 18%;
+	left:18%;
 	color: black;
 }
 
 /* Top right text */
 .top-right {
 	position: absolute;
-	top: 500px;
-	right: 100px;
+	top: 65%;
+	right: 12%;
 	color: black;
 }
 
 /* Bottom right text */
 .bottom-right {
 	position: absolute;
-	bottom: 60px;
-	right: 380px;
+	bottom: 10%;
+	right: 35%;
 	color: black;
 }
 
